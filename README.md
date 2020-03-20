@@ -16,7 +16,7 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * Elastic strap (70cm)
-* 25cm x 20cm x 0.125mm clear plastic sheet (sheet.svg)
+* 25cm x 20cm x 0.125mm clear plastic sheet such as Mylar (sheet.svg)
 * Foam insert
 * Glue (preferably cyanoacrylate)
 
@@ -40,7 +40,7 @@ To purchase, go to https://store.glia.org
 # Assembly instructions
 * Insert strap into printed head piece
 * Loop strap through buckle and attack to self using heat or a dab of glue
-* Insert mylar, using strap to hold mylar in place.
+* Insert clear plastic sheet, using strap to hold mylar in place.
 
 # Licensing notes
 As per our understanding, hardware is not covered by copyright. However, we
