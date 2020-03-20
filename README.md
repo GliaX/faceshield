@@ -17,8 +17,6 @@ To purchase, go to https://store.glia.org
 ## Other hardware
 * Elastic strap (70cm)
 * 25cm x 20cm x 0.125mm clear plastic sheet such as Mylar (sheet.svg)
-* Foam insert
-* Glue (preferably cyanoacrylate)
 
 # Print instructions
 * Use PETG or ABS
