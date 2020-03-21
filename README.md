@@ -15,7 +15,7 @@ To purchase, go to https://store.glia.org
 * 1 buckle (buckle.stl)
 
 ## Other hardware
-* Elastic strap (70cm)
+* 70cm x 1cm Elastic strap
 * 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet.svg)
 
 # Print instructions
