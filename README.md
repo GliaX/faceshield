@@ -16,7 +16,7 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * Elastic strap (70cm)
-* 28cm x 25cm x 0.125mm clear plastic sheet such as Mylar (sheet.svg)
+* 28cm x 25cm x 0.125mm clear plastic sheet such as Mylar (facesheet.svg)
 
 # Print instructions
 * Use PETG or ABS
@@ -33,7 +33,8 @@ To purchase, go to https://store.glia.org
 
 # Sterilization
 * Disassemble head piece from strap and mylar sheet
-* Soak for 30 minutes in warm bleach solution in well-ventilated area
+* Soak entire shield and strap for 1 minute in warm bleach solution in well-ventilated area
+* Rinse with water
 
 # Assembly instructions
 * Insert strap into printed head piece
