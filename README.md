@@ -16,7 +16,7 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * Elastic strap (70cm)
-* 25cm x 20cm x 0.125mm clear plastic sheet such as Mylar (sheet.svg)
+* 28cm x 25cm x 0.125mm clear plastic sheet such as Mylar (sheet.svg)
 
 # Print instructions
 * Use PETG or ABS
