@@ -16,7 +16,7 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * 70cm x 1cm Elastic strap
-* 28cm x 25cm x 0.125mm Clear plastic sheet such as Mylar (facesheet.svg)
+* 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet.svg)
 
 # Print instructions
 * Use PETG or ABS
@@ -38,7 +38,7 @@ To purchase, go to https://store.glia.org
 
 # Assembly instructions
 * Insert strap into printed head piece
-* Loop strap through buckle and attack to self using heat or a dab of glue
+* Loop strap through buckle and attach to self using heat or a dab of glue
 * Insert clear plastic sheet, using strap to hold mylar in place.
 
 # Licensing notes
