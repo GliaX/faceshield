@@ -31,6 +31,9 @@ To purchase, go to https://store.glia.org
 * If laser cutter is not available, you may manually cut the sheets to
 28cm x 25cm. Consider rounding corners as per template
 
+# Mylar Sheet Substitute
+* 1.5 Litre Smart water bottle (found in Walmart) may be used. When the bottle is cut down the middle the dimensions are perfect. A new stl file will need to be created to keep the bottom from twisting inwards but in a pinch it works without it. Remove glue left over from sticker with any type of cooking oil or rubbing alcohol.
+
 # Sterilization
 * Disassemble head piece from strap and mylar sheet
 * Soak entire shield and strap for 1 minute in warm bleach solution in well-ventilated area
