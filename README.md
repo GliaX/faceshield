@@ -29,7 +29,7 @@ To purchase, go to https://store.glia.org
 # Mylar sheet Instructions
 * Cut the mylar sheet with a laser cutter if available.
 * If laser cutter is not available, you may manually cut the sheets to
-25cm x 20cm. Consider rounding corners as per template
+28cm x 25cm. Consider rounding corners as per template
 
 # Sterilization
 * Disassemble head piece from strap and mylar sheet
