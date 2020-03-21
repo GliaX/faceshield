@@ -27,8 +27,8 @@ To purchase, go to https://store.glia.org
 * Export and print
 
 # Mylar sheet Instructions
-* Cut the mylar sheet with a laser cutter if available.
-* If laser cutter is not available, you may manually cut the sheets to
+* Cut the mylar sheet with a laser cutter or die cutting machine if available.
+* If a cutter is not available, you may manually cut the sheets to
 28cm x 25cm. Consider rounding corners as per template
 
 # Sterilization
