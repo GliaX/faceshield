@@ -37,6 +37,7 @@ To purchase, go to https://store.glia.org
 * Rinse with water
 
 # Assembly instructions
+* See [Assembly Instructions illustration](instructions.jpg) for a visual guide
 * Insert strap into printed head piece
 * Loop strap through buckle and attach to self using heat or a dab of glue
 * Insert clear plastic sheet, using strap to hold mylar in place.
