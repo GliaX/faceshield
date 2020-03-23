@@ -35,6 +35,7 @@ To purchase, go to https://store.glia.org
 * Disassemble head piece from strap and mylar sheet
 * Soak entire shield and strap for 1 minute in warm bleach solution in well-ventilated area
 * Rinse with water
+* Hang to dry
 
 # Assembly instructions
 * See [Assembly Instructions illustration](instructions.jpg) for a visual guide
