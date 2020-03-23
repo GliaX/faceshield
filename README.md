@@ -31,7 +31,7 @@ To purchase, go to https://store.glia.org
 * If a cutter is not available, you may manually cut the sheets to
 28cm x 25cm. Consider rounding corners as per template
 
-# Sterilization
+# Decontamination
 * Disassemble head piece from strap and mylar sheet
 * Soak entire shield and strap for 1 minute in warm bleach solution in well-ventilated area
 * Rinse with water
