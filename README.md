@@ -5,7 +5,7 @@ shield that can be quickly deployed.
 This face shield is currently in use in London Health Sciences Centre in the
 Emergency Department.
 
-This face shield is based on [this original design with minor modifications](https://www.thingiverse.com/thing:4222407)
+This face shield is made by Mike Doell (@mike_doell)
 
 To purchase, go to https://store.glia.org
 
