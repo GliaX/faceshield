@@ -11,8 +11,7 @@ To purchase, go to https://store.glia.org
 
 # Bill of Materials
 ## Printed parts
-* 1 head piece (headpiece.stl)
-* 1 buckle (buckle.stl)
+* 1 head piece (FCheadpiece.stl)
 
 ## Other hardware
 * 50cm x 1cm Elastic strap
