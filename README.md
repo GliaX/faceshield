@@ -5,7 +5,7 @@ shield that can be quickly deployed.
 This face shield is currently in use in London Health Sciences Centre in the
 Emergency Department.
 
-This face shield is made by Mike Doell (@mike_doell)
+This face shield is based on a design by Mike Doell (@mike_doell), recreated in FreeCAD and further adapted by Jake Bender with help from Glia's team of collaborators, designers, and testers.
 
 To purchase, go to https://store.glia.org
 
