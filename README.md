@@ -2,19 +2,19 @@
 The goal of this project is to create a low cost, high quality, reusable face
 shield that can be quickly deployed.
 
-This face shield is currently in use in London Health Sciences Centre in the
-Emergency Department.
+The existing face shield by @mike_doell is currently in use in London Health Sciences Centre in the
+Emergency Department. The FreeCAD version is currently undergoing design changes and improvements, and is **not** currently being publicly distributed.
 
 This face shield is based on a design by Mike Doell (@mike_doell), recreated in FreeCAD and further adapted by Jake Bender with help from Glia's team of collaborators, designers, and testers.
 
-To purchase, go to https://store.glia.org
+To purchase the existing version, go to https://store.glia.org
 
 # Bill of Materials
 ## Printed parts
 * 1 head piece (FCheadpiece.stl)
 
 ## Other hardware
-* 50cm x 1cm Elastic strap
+* 60cm x 1cm Elastic strap
 * Large: 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-large.svg)
 * Small (default): 28cm x 23cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-small.svg)
 
