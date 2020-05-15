@@ -2,19 +2,18 @@
 The goal of this project is to create a low cost, high quality, reusable face
 shield that can be quickly deployed.
 
-The existing face shield by @mike_doell is currently in use in London Health Sciences Centre in the
-Emergency Department. The FreeCAD version is currently undergoing design changes and improvements, and is **not** currently being publicly distributed.
+The existing face shield by @mike_doell is currently being sold at [Glia's online store](https://store.glia.org). The FreeCAD version is currently undergoing design changes and improvements, and is **not** currently being publicly distributed.
 
-This face shield is based on a design by Mike Doell (@mike_doell), recreated in FreeCAD and further adapted by Jake Bender with help from Glia's team of collaborators, designers, and testers.
+This face shield is based on a design by Mike Doell (@mike_doell), recreated in FreeCAD and further adapted by Jake Bender with help from Glia's team of collaborators, designers, and testers, as well as engineering and design input from [Mosaic Manufacturing](https://www.mosaicmfg.com).
 
-To purchase the existing version, go to https://store.glia.org
+To purchase the existing version, go to the [Glia Store](https://store.glia.org).
 
 # Bill of Materials
 ## Printed parts
 * 1 head piece (FCheadpiece.stl)
 
 ## Other hardware
-* 60cm x 1cm Elastic strap
+* 60cm x 1cm elastic strap
 * Large: 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-large.svg)
 * Small (default): 28cm x 23cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-small.svg)
 
@@ -38,7 +37,7 @@ To purchase the existing version, go to https://store.glia.org
 * Hang to dry
 
 # Assembly instructions
-* See [Assembly Instructions illustration](instructions.jpg) for a visual guide
+* See [Assembly Instructions illustration](instructions.jpg) for a visual guide (NEEDS TO BE UPDATED FOR FREECAD VERSION)
 * Insert strap into printed head piece
 * Loop strap through buckle and attach to self using heat or a dab of glue
 * Insert clear plastic sheet, using strap to hold mylar in place.
