@@ -2,16 +2,15 @@
 The goal of this project is to create a low cost, high quality, reusable face
 shield that can be quickly deployed.
 
-This face shield is currently in use in London Health Sciences Centre in the
-Emergency Department.
+This face shield is currently in use in the Gaza Strip.
 
-This face shield is made by Jake Bender. Contributors include Mike Doell (@mike_doell)
-and Mosaic Manufacturing.
+This face shield's 3D printed design was made by Jake Bender. Contributors include Mike Doell (@mike_doell)
+and Mosaic Manufacturing. The injection-molded design was made by Abd Aliwa and Steve Plimmer.
 
 To purchase, go to https://store.glia.org
 
 # Bill of Materials
-## Printed parts
+## Molded parts
 * 1 head piece (headpiece.stl)
 
 ## Other hardware
@@ -19,14 +18,11 @@ To purchase, go to https://store.glia.org
 * Large: 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-large.svg)
 * Small (default): 28cm x 23cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-small.svg)
 
-# Print instructions
-* Use PETG or ABS
-* Layer height: 0.3mm
-* Use PrusaSlicer 2.2 or above to import 3MF file
-* Modify filament and printer settings as needed
-* **DO NOT MODIFY PRINT SETTINGS**
-* Export and print
-
+# Molding instructions
+* You have to make one degree conus in all the inner parts of the mold to facilitate the production process.
+* High density polypropylene was used for the manufacturing process.
+* Each piece consumes about 70 seconds in the production process.
+    
 # Mylar sheet Instructions
 * Cut the mylar sheet with a laser cutter or die cutting machine if available
 * If a cutter is not available, you may manually cut the sheets to
