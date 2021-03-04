@@ -16,8 +16,8 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * 60cm x 1cm Elastic strap
-* Large: 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-large.svg)
-* Small (default): 28cm x 23cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-small.svg)
+* Large: 28cm x 25cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-large.svg)
+* Small (default): 28cm x 23cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-small.svg)
 
 # Print instructions
 * Use PETG or ABS
