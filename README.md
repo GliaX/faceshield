@@ -15,14 +15,14 @@ To purchase, go to https://store.glia.org
 
 ## Other hardware
 * 60cm x 1cm Elastic strap
-* Large: 28cm x 25cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-large.svg)
-* Small (default): 28cm x 23cm x 0.125mm (5mil or greater) clear plastic sheet such as Mylar (facesheet-small.svg)
+* Large: 28cm x 25cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-large.svg)
+* Small (default): 28cm x 23cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-small.svg)
 
 # Molding instructions
-* You have to make one degree conus in all the inner parts of the mold to facilitate the production process.
-* High density polypropylene was used for the manufacturing process.
-* Each piece consumes about 70 seconds in the production process.
-    
+* Ensure 1-2 degrees of draft angle on all vertical faces inside of cavity to facilitate demolding of injected part.
+* Consult the specification sheet of the materials manufacturer for injection temperatures, pressures and speed.
+* The injection cycle time is approximately 70 seconds using high-density polypropylene.
+
 # Mylar sheet Instructions
 * Cut the mylar sheet with a laser cutter or die cutting machine if available
 * If a cutter is not available, you may manually cut the sheets to
