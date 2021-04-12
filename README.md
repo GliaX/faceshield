@@ -18,10 +18,13 @@ To purchase, go to https://store.glia.org
 * Large: 28cm x 25cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-large.svg)
 * Small (default): 28cm x 23cm with a thickness of 0.254mm clear plastic sheet such as Mylar (facesheet-small.svg)
 
-# Molding instructions
-* Ensure 1-2 degrees of draft angle on all vertical faces inside of cavity to facilitate demolding of injected part.
-* Consult the specification sheet of the materials manufacturer for injection temperatures, pressures and speed.
-* The injection cycle time is approximately 70 seconds using high-density polypropylene.
+# Print instructions
+* Use PETG or ABS
+* Layer height: 0.3mm
+* Use PrusaSlicer 2.2 or above to import 3MF file
+* Modify filament and printer settings as needed
+* **DO NOT MODIFY PRINT SETTINGS**
+* Export and print
 
 # Mylar sheet Instructions
 * Cut the mylar sheet with a laser cutter or die cutting machine if available
