@@ -43,6 +43,41 @@ To purchase, go to https://store.glia.org
 * Insert clear plastic sheet into printed head piece
 * Fit can be adjusted by pulling on the loose ends of the elastic strap
 
+
+# FAQs
+
+## Mylar
+
+Question: Can we use acetate transparency sheets instead of mylar?
+
+Answered by kliment: Cellulose acetate (transparency sheets) are hydrophilic and retain water and water droplets for a long time, whereas PET (mylar) does not. Based on this I would recommend against acetate unless you have no choice. If you do use acetate, note it may not survive disinfection as many solvents attack it.  Heat resistant (meant for laser printers) transparencies are made of Mylar.
+
+
+Question: How thick is 0.125mm?
+
+Answer: 0.125mm is .00492 inches, or 5 mil.
+
+
+## Printing materials
+
+Question: What 3D printing materials can be used, that would be compatible with the decontamination procedure?
+
+Answered by tareko: We recommend only PETG and ABS.
+
+
+## Health Standards
+
+Question: Are any standards (by Health Canada or other certifications) that these shields need to meet before they are used?
+
+Answered by tareko: This is a Class I device, so Health Canada's standards apply to the manufacturing facility and distributing company rather than to each individual device. Glia's stuff is all produced in a Health-Canada licensed facility (we hold an MDEL from them), and of course we follow all the protocols.
+
+
+Question: If another facility would like touse your designs and follow the same protocols you provide, then what exactly are the Health-Canada implications?
+
+Answered by tareko: If you want to have your own Health Canada certification, take a look at https://cloud.emlondon.ca/s/apcPnMiTb9bLCW8 from HC. TL;DR: It's a 24 hour turn around now.
+If you don't want to do that, what we would do is take the 3D prints from you and 'produce' the end device in London (Ontario), then send it back out. Inefficient, yes, but Health Canada compliant.
+
+
 # Licensing notes
 As per our understanding, hardware is not covered by copyright. However, we
 present our work under the TAPR OHL or GPLv3 licenses insofar as it applies.
