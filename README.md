@@ -45,4 +45,4 @@ To purchase, go to https://store.glia.org
 
 # Licensing notes
 As per our understanding, hardware is not covered by copyright. However, we
-present our work under the TAPR OHL or GPLv3 licenses insofar as it applies.
+present our work under the TAPR OHL or [GPLv3 licenses](https://github.com/GliaX/faceshield/blob/master/LICENSE) insofar as it applies.
